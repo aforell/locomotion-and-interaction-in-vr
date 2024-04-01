@@ -1,6 +1,6 @@
 # Alexander Forell - University Project: Locomotion and Interaction in VR
 
-[My Project](https://github.com/aforell/locomotion-and-interaction-in-vr/blob/master/ivar-project-thumbnail.jpg)
+[My Project](/blob/master/ivar-project-thumbnail.jpg)
 
 This repository contains the code of my project for the "Interaction in Virtual and Augmented Reality" class I took at TU Darmstadt in the winter semester 2023/24. This project was made in Unity 2021.3.32f1 for the Meta Quest 2.
 
